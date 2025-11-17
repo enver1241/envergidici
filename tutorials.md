@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Tutorials"
+permalink: /tutorials/
 ---
+
 
 Below is a list of tutorials and documentation I consulted while building this site.  
 (Replace or expand this list with the **proposed tutorials** from your course.)
